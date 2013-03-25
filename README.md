@@ -1,5 +1,4 @@
 Game of Life 
 ===========
-That is all
 
 
